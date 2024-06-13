@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas no meu perfil 🚙
 
-<!--
-**kauefariaa/kauefariaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Kaue Faria
 
-Here are some ideas to get you started:
+- Estou estudando no [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na Linguagem JavaScript
+- Utilizo esse espaço para a minha organizaçäo compartilhamento dos meus Projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📫
+
+- 00001105300031sp@al.educacao.sp.gov.br
+
+
+! [](<img src="https://media.tenor.com/MHtxpSNByfAAAAAi/lightning-mcqueen-cars-movie.gif" alt="Lightning Mcqueen Cars Movie Sticker - Lightning Mcqueen Cars Movie Model Stickers"/>![image](https://github.com/kauefariaa/kauefariaa/assets/172626943/da81a5bf-ccc7-4f87-842a-264fa7320bb0)
+
